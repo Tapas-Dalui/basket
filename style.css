@@ -287,7 +287,7 @@ section{
     display: flex;
     align-items: center;
     justify-content: start;
-    background: url('/basket/img/banner.jpg') no-repeat;
+    background: url('img/banner.jpg') no-repeat;
     background-position: center;
     background-size: cover;
     padding-top: 17rem;
